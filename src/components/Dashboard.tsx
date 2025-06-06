@@ -33,7 +33,7 @@ export function Dashboard() {
         <h2 className="financial-heading text-4xl lg:text-5xl">
           Your Financial Overview
         </h2>
-        <p className="text-white/80 text-lg max-w-2xl mx-auto font-medium">
+        <p className="text-slate-600 text-lg max-w-2xl mx-auto font-medium">
           Track, split, and settle expenses with precision. Take control of your shared finances.
         </p>
       </div>
